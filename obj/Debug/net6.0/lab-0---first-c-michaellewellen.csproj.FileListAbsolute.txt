@@ -1,0 +1,15 @@
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\bin\Debug\net6.0\lab-0---first-c-michaellewellen.exe
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\bin\Debug\net6.0\lab-0---first-c-michaellewellen.deps.json
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\bin\Debug\net6.0\lab-0---first-c-michaellewellen.runtimeconfig.json
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\bin\Debug\net6.0\lab-0---first-c-michaellewellen.dll
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\bin\Debug\net6.0\lab-0---first-c-michaellewellen.pdb
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.csproj.AssemblyReference.cache
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.AssemblyInfo.cs
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.dll
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\refint\lab-0---first-c-michaellewellen.dll
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.pdb
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\lab-0---first-c-michaellewellen.genruntimeconfig.cache
+C:\Users\michael.lewellen\Desktop\code\my-code-dir\lab-0---first-c-michaellewellen\obj\Debug\net6.0\ref\lab-0---first-c-michaellewellen.dll
